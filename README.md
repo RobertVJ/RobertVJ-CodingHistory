@@ -23,15 +23,26 @@ or code made are the following:
 * [IA-CodingHistory](https://github.com/RobertVJ/IA-CodingHistory)
 
 ##  Kotlin
-* [Kotlin]()
+* [Kotlin](https://github.com/RobertVJ/Kotlin-CodingHistory)
 
 ##  Unity
-* [Unity]()
+* [Unity-CodingHistory](https://github.com/RobertVJ/Unity-CodingHistory)
 
-##  Node.js
+##  Node.js / React
 * [Node.js]()
 
+
+
 ## Proyects
+
+## RoboPrime
+
+First project that participates in the Instituto Tecnológico de Monterrey campus Estado de Mexico, 
+which was carried out in the Robocode friendly competition, which had the purpose of producing 
+digital Robots with different attack patterns in order to perform an attack routine and thus 
+eliminate enemy robots. present on the battlefield.
+
+* [RoboPrime01 Github Link](https://github.com/RobertVJ/RoboPrime01)
 
 ## Time Revolution
 
@@ -51,7 +62,7 @@ application, which Dibujando un Mañana has to filter and authorize before publi
 participation of volunteers in the app.
 
 
-* [Dibujando un Mañana App](https://github.com/luis-zamarripa/AppDibujandoUnManana)
+* [Dibujando un Mañana App Github Link](https://github.com/luis-zamarripa/AppDibujandoUnManana)
 
 
 ## Software Development for Contact Center
